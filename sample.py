@@ -1,7 +1,6 @@
 a=3
 b=8
-sum =a+b
-print "sum of two numbers is" sum
+c=6
+sum =a+b+c
+print "sum of three numbers is" sum
 print "line added from desktop"
-
-
