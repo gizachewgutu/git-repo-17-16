@@ -1,0 +1,7 @@
+this file is not commited
+now it is commited
+The second day changed for practice.
+This is great
+a=1
+b=3
+d=4
