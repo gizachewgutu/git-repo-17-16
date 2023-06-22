@@ -5,3 +5,5 @@ This is great
 a=1
 b=3
 d=4
+sum =a+b+c
+print "the sum of three numbers"
